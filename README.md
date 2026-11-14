@@ -35,3 +35,6 @@ Developed practical understanding of oriented imagery datasets and their integra
 Educational practical exercise completed using Esri MOOC training material.
 
 **Project Type:** Educational GIS Project
+## Final Project Map
+
+![Oriented Imagery Final Map](Oriented_Imagery_Final_Map.png)
